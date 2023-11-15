@@ -6,14 +6,14 @@ int main(){
 	scanf("%d",n);
  	do {
  	printf("**************chon phep tinh**************\n");
-    printf("1. In ra day so cÛ gi· tri nho hon hoac bang n v‡ tinh tong\n");
-    printf("2. in ra va dem cac so chi het cho 3 nho hon n\n");
-    printf("3. kiem tra so nguyen co phai so nguyen to ko\n");
-    printf("4. kiem tra so nguyen co\n");
+    	printf("1. In ra day so c√≥ gi√° tri nho hon hoac bang n v√† tinh tong\n");
+    	printf("2. in ra va dem cac so chi het cho 3 nho hon n\n");
+    	printf("3. kiem tra so nguyen co phai so nguyen to ko\n");
+    	printf("4. kiem tra so nguyen co\n");
    	printf("6. gia  phai so hoan hao ko\n");
-    printf("5. tong cac uoc cua nthua cua n\n"); 
+    	printf("5. tong cac uoc cua nthua cua n\n"); 
 	printf("7. in ra so dao nguoc cua n");
-    printf("8. in ra cac so nguyen to tu 1 den n\n"); 
+    	printf("8. in ra cac so nguyen to tu 1 den n\n"); 
    	printf("9. Thoat\n");
     	int choice;
     	printf("Lua chon cua ban:");
@@ -88,7 +88,7 @@ int main(){
 			case 9:
         		exit(e);
       		default:
-        	printf("Vui long chon tu 1-8\n");
+        	printf("Vui long chon tu 1-9\n");
 			}
-    } while ("Vui long cho tu 1 - 8\n");
+    } while ("Vui long cho tu 1 - 9\n");
 }
