@@ -75,6 +75,7 @@ int main(){
 			break;
 			
 			case 7:
+				//em ko hieu dau bai:((
 			break;
 				
 			case 8:
